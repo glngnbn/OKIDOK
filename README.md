@@ -53,6 +53,9 @@
   <li><strong>User-Friendly Interface:</strong> Intuitive design for easy navigation.</li>
 </ul>
 
+<!-- CONTRIBUTORS --> 
+<h2 id="contributors">👩‍💻 Contributors</h2> <table align="center"> <tr> <td align="center"> <a href="https://github.com/roseann11"><img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Rose Ann's GitHub Profile"/><br /><sub><b>Aguilar, Rose Ann C.</b></sub></a><br /></td> <td align="center"> <a href="https://github.com/glngnbn"><img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Glenn's GitHub Profile"/><br /><sub><b>Guinoban, Glenn M.</b></sub></a><br /> </td> <td align="center"> <a href="https://github.com/Eljay-Marasigan"><img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Eljay's GitHub Profile"/><br /><sub><b>Marasigan, Eljay P.</b></sub></a><br />  </td> <td align="center"> <a href="https://github.com/FaithAllyson"><img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Faith's GitHub Profile"/><br /><sub><b>Mendoza, Faith Allyson R.</b></sub></a><br /> </td> </tr> </table>
+
 <!-- IMPORTANT LINKS -->
 <h2 id="links">🔗 Important Links </h2>
 
