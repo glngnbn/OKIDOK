@@ -13,6 +13,7 @@
         <li><a href="#sdg">Sustainable Developement Goal</a></li>
       </ul>
     </li>
+    <li><a href="#features">Key Features</a></li>
     <li><a href="#systemarchitecture">System Architecture</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -24,25 +25,33 @@
     <li><a href="#preview">Preview</a></li>
     <li><a href="#contributing">Contributors</a></li>
     <li><a href="#links">Important Links</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Acknowledegments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project">🏥 About The Project </h2>
-<p>
-  <a href="#top"><strong>OKIDOK</strong></a> is a medical recommendation system that uses machine learning to analyze user-input symptoms and predict potential diseases. 
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#top"><strong>OKIDOK</strong></a> is a medical recommendation system that uses machine learning to analyze user-input symptoms and predict potential diseases. 
   It provides preliminary guidance on possible conditions and suggests appropriate medical actions.
 </p>
 
 <!-- SUSTAINABLE DEVELOPMENT GOAL -->
 <h2 id="sdg">🌍 Sustainable Development Goal </h2>
 
-<p>
-  Okidok aligns with <strong>SDG 3: Good Health and Well-Being</strong> by making healthcare more accessible and efficient. 
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;Okidok aligns with <strong>SDG 3: Good Health and Well-Being</strong> by making healthcare more accessible and efficient. 
   It assists in early detection and treatment, especially for individuals with limited access to healthcare professionals, thus promoting overall health and well-being.
 </p>
 
+<!-- KEY FEATURES -->
+<h2 id="features">🔑 Key Features </h2>
+<ul>
+  <li><strong>Symptom Checker:</strong> Enter symptoms to get possible conditions.</li>
+  <li><strong>Medical Recommendations:</strong> Provides treatment, self-care tips, and doctor visit guidance.</li>
+  <li><strong>Categorized Health Info:</strong> Organized details on diseases, precautions, medications, workouts, and diets.</li>
+  <li><strong>User-Friendly Interface:</strong> Intuitive design for easy navigation.</li>
+</ul>
 
 <!-- IMPORTANT LINKS -->
 <h2 id="links">🔗 Important Links </h2>
