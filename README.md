@@ -80,7 +80,7 @@
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
       <a href="https://github.com/FaithAllyson" style="text-decoration: none; color: inherit;">
-        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="250px;" alt="Faith's GitHub Profile"/>
+        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="240px;" alt="Faith's GitHub Profile"/>
         <br>
         <b>Mendoza, Faith Allyson R.</b>
       </a>
