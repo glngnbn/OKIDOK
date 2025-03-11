@@ -54,7 +54,42 @@
 </ul>
 
 <!-- CONTRIBUTORS --> 
-<h2 id="contributing">👩‍💻 Contributors</h2> <table align="center"> <tr> <td align="center"> <a href="https://github.com/roseann11"><img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Rose Ann's GitHub Profile"/><br /><sub><b>Aguilar, Rose Ann C.</b></sub></a><br /></td> <td align="center"> <a href="https://github.com/glngnbn"><img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Glenn's GitHub Profile"/><br /><sub><b>Guinoban, Glenn M.</b></sub></a><br /> </td> <td align="center"> <a href="https://github.com/Eljay-Marasigan"><img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Eljay's GitHub Profile"/><br /><sub><b>Marasigan, Eljay P.</b></sub></a><br />  </td> <td align="center"> <a href="https://github.com/FaithAllyson"><img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Faith's GitHub Profile"/><br /><sub><b>Mendoza, Faith Allyson R.</b></sub></a><br /> </td> </tr> </table>
+<h2 id="contributing">👩‍💻 Contributors</h2> 
+<table width="100%" style="border-collapse: collapse;"> 
+  <tr> 
+    <td align="center" width="25%" style="padding: 10px;"> 
+      <a href="https://github.com/roseann11" style="text-decoration: none; color: inherit;">
+        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="250px;" alt="Rose Ann's GitHub Profile"/>
+        <br>
+        <b>Aguilar, Rose Ann C.</b>
+      </a>
+    </td> 
+    <td align="center" width="25%" style="padding: 10px;"> 
+      <a href="https://github.com/glngnbn" style="text-decoration: none; color: inherit;">
+        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="250px;" alt="Glenn's GitHub Profile"/>
+        <br>
+        <b>Guinoban, Glenn M.</b>
+      </a>
+    </td> 
+    <td align="center" width="25%" style="padding: 10px;"> 
+      <a href="https://github.com/Eljay-Marasigan" style="text-decoration: none; color: inherit;">
+        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="250px;" alt="Eljay's GitHub Profile"/>
+        <br>
+        <b>Marasigan, Eljay P.</b>
+      </a>
+    </td> 
+    <td align="center" width="25%" style="padding: 10px;"> 
+      <a href="https://github.com/FaithAllyson" style="text-decoration: none; color: inherit;">
+        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="250px;" alt="Faith's GitHub Profile"/>
+        <br>
+        <b>Mendoza, Faith Allyson R.</b>
+      </a>
+    </td> 
+  </tr> 
+</table>
+
+
+
 
 <!-- IMPORTANT LINKS -->
 <h2 id="links">🔗 Important Links </h2>
