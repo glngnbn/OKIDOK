@@ -39,6 +39,10 @@
 <!-- SUSTAINABLE DEVELOPMENT GOAL -->
 <h2 id="sdg">🌍 Sustainable Development Goal </h2>
 
+<p align="center" >
+<img src="https://github.com/user-attachments/assets/b2186f0e-d954-4e01-a82f-228f959ca891" width="25%" height="25%">
+</p>
+
 <p align="justify">
   &nbsp;&nbsp;&nbsp;&nbsp;Okidok aligns with <strong>SDG 3: Good Health and Well-Being</strong> by making healthcare more accessible and efficient. 
   It assists in early detection and treatment, especially for individuals with limited access to healthcare professionals, thus promoting overall health and well-being.
