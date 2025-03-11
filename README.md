@@ -39,14 +39,19 @@
 <!-- SUSTAINABLE DEVELOPMENT GOAL -->
 <h2 id="sdg">🌍 Sustainable Development Goal </h2>
 
-<p align="center" >
-<img src="https://github.com/user-attachments/assets/b2186f0e-d954-4e01-a82f-228f959ca891" width="25%" height="25%">
-</p>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td width="30%" style="border: none; vertical-align: top; padding-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/b2186f0e-d954-4e01-a82f-228f959ca891" width="100%">
+    </td>
+    <td width="70%" align="justify" style="border: none;">
+      Okidok aligns with <strong>SDG 3: Good Health and Well-Being</strong> by making healthcare more accessible and efficient. 
+      It assists in early detection and treatment, especially for individuals with limited access to healthcare professionals, 
+      thus promoting overall health and well-being.
+    </td>
+  </tr>
+</table>
 
-<p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;Okidok aligns with <strong>SDG 3: Good Health and Well-Being</strong> by making healthcare more accessible and efficient. 
-  It assists in early detection and treatment, especially for individuals with limited access to healthcare professionals, thus promoting overall health and well-being.
-</p>
 
 <!-- KEY FEATURES -->
 <h2 id="features">🔑 Key Features </h2>
