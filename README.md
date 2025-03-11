@@ -82,7 +82,7 @@
       <a href="https://github.com/FaithAllyson" style="text-decoration: none; color: inherit;">
         <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="240px;" alt="Faith's GitHub Profile"/>
         <br>
-        <b>Mendoza, Faith Allyson R.</b>
+        <b>Mendoza, Faith R.</b>
       </a>
     </td> 
   </tr> 
