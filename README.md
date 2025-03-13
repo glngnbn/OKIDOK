@@ -1,5 +1,12 @@
 <!-- PROJECT TITLE -->
-<h1 align="center">OKIDOK</h1>
+<p align= "center">
+  <img src= "https://github.com/user-attachments/assets/ccd895c5-a6bc-4b09-a29e-69bd09ac9570" width="30%" height="30%">
+</p>
+<p align= "center">
+  <img src= "https://github.com/user-attachments/assets/beb6bc2e-8286-4b65-b65b-6e347430a1b4" width="20%" height="20%">
+</p>
+
+
 
 [![Contributors][contributors-shield]][contributors-url]
 
