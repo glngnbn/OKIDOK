@@ -55,16 +55,6 @@
 
 <!-- KEY FEATURES -->
 <h2 id="features">🔑 Key Features </h2>
-<ul>
-  <li><strong>Symptom Checker:</strong> Enter symptoms to get possible conditions.</li>
-  <li><strong>Medical Recommendations:</strong> Provides treatment, self-care tips, and doctor visit guidance.</li>
-  <li><strong>Categorized Health Info:</strong> Organized details on diseases, precautions, medications, workouts, and diets.</li>
-  <li><strong>Flexible Symptom Input Options:</strong> Enter symptoms manually or select from a list.</li>
-  <li><strong>User-Friendly Interface:</strong> Intuitive design for easy navigation.</li>
-</ul>
-
-<!-- KEY FEATURES -->
-<h2 id="features">🔑 Key Features </h2>
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td align="center" width="25%" style="padding: 10px;"> 
