@@ -77,12 +77,15 @@
   
 <!-- PREVIEW -->
 <h2 id="preview">🫣 Preview </h2>
+<p align= "center">
+  <img src="https://github.com/user-attachments/assets/b536ea5b-48f5-4353-857d-096449d725b3" width="180" style="border-radius: 15px;">
+</p>
 <div align="center">
   <table>
     <tr>
       <td><img src="https://i.postimg.cc/SRdndf2Q/Picture1.jpg" width="180"></td>
       <td><img src="https://i.postimg.cc/GtfCb46J/Picture2.jpg" width="180"></td>
-      <td><img src="https://github.com/user-attachments/assets/1b9a1cae-7cd2-4a21-b434-5a801089fdc5" width="165" style="border-radius: 15px;"></td>
+      <td><img src="https://i.postimg.cc/wjLpdT2L/Picture4.jpg" width="180"></td>
       <td><img src="https://i.postimg.cc/rFvkbt1q/Picture3.jpg" width="180"></td>
       <td><img src="https://i.postimg.cc/j5gVhWq0/Picture5.jpg" width="180"></td>
     </tr>
