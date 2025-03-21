@@ -9,11 +9,7 @@
 
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Python][Python-logo]][Python-url]   
-[![Flask][Flask-logo]][Flask-url]   
-[![HTML][HTML-logo]][HTML-url]  [![CSS][CSS-logo]][CSS-url]  [![JavaScript][JS-logo]][JS-url]  
-[![Pandas][Pandas-logo]][Pandas-url] 
-[![NumPy][NumPy-logo]][NumPy-url] 
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><strong>Table of Contents</strong></summary>
@@ -116,38 +112,50 @@
 </div>
 <!-- CONTRIBUTORS --> 
 <h2 id="contributing">👩‍💻 Contributors</h2> 
+
 <table width="100%" style="border-collapse: collapse;"> 
   <tr> 
     <td align="center" width="25%" style="padding: 10px;"> 
-      <a href="https://github.com/roseann11" style="text-decoration: none; color: inherit;">
         <img src="https://github.com/user-attachments/assets/678d1225-62e3-4258-a022-9de27a4e1352" width="250px;" alt="Rose Ann's GitHub Profile"/>
-        <br>
-        <b>Aguilar, Rose Ann C.</b>
+      </a>
+      <br>
+      <b>Aguilar, Rose Ann C.</b>
+      <a href="https://github.com/roseann11">
+        <img src="https://img.shields.io/badge/GitHub-roseann11-181717?style=for-the-badge&logo=github&logoColor=white" alt="Rose Ann's GitHub Profile Badge"/>
       </a>
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
-      <a href="https://github.com/glngnbn" style="text-decoration: none; color: inherit;">
         <img src="https://github.com/user-attachments/assets/92ff0bce-e186-4a9e-bf26-767d30fb68d5" width="250px;" alt="Glenn's GitHub Profile"/>
-        <br>
-        <b>Guinoban, Glenn M.</b>
+      </a>
+      <br>
+      <b>Guinoban, Glenn M.</b>
+      <a href="https://github.com/glngnbn">
+        <img src="https://img.shields.io/badge/GitHub-glngnbn-181717?style=for-the-badge&logo=github&logoColor=white" alt="Glenn's GitHub Profile Badge"/>
       </a>
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
       <a href="https://github.com/Eljay-Marasigan" style="text-decoration: none; color: inherit;">
         <img src="https://github.com/user-attachments/assets/5ae85057-a5eb-429c-9bf3-c793db8a9478" width="250px;" alt="Eljay's GitHub Profile"/>
-        <br>
-        <b>Marasigan, Eljay P.</b>
+      </a>
+      <br>
+      <b>Marasigan, Eljay P.</b>
+      <a href="https://github.com/Eljay-Marasigan">
+        <img src="https://img.shields.io/badge/GitHub-Eljay--Marasigan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Eljay's GitHub Profile Badge"/>
       </a>
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
-      <a href="https://github.com/FaithAllyson" style="text-decoration: none; color: inherit;">
         <img src="https://github.com/user-attachments/assets/926b98bd-4d23-4767-8fba-d09ff1301af0" width="240px;" alt="Faith's GitHub Profile"/>
         <br>
         <b>Mendoza, Faith R.</b>
       </a>
+      <br>
+      <a href="https://github.com/FaithAllyson">
+        <img src="https://img.shields.io/badge/GitHub-FaithAllyson-181717?style=for-the-badge&logo=github&logoColor=white" alt="Faith's GitHub Profile Badge"/>
+      </a>
     </td> 
   </tr> 
 </table>
+
 
 <!-- IMPORTANT LINKS -->
 <h2 id="links">🔗 Important Links </h2>
@@ -186,10 +194,6 @@
 <!-- ACKNOLEDGEMENT -->
 <h2 id="acknowledgments">🙏 Acknowledgement </h2>
   <p align="justify" >  We extend our heartfelt gratitude to our team members for their dedication, collaboration, and invaluable contributions to the Medical Recommendation System. Each member played a crucial role, bringing unique ideas and skills that enriched the project. The successful completion of this system was made possible through teamwork, shared commitment, and countless hours of research, development, and refinement. This experience not only strengthened our ability to work together but also provided us with valuable insights into software engineering practices. Thank you for your hard work, passion, and unwavering support in achieving our goal.</p>
-
-
-
-
 
 
 
