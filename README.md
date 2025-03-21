@@ -136,7 +136,7 @@
 </div>
 
 <!-- ACKNOLEDGEMENT -->
-<h2 id="acknowledgments">🙏 Acknoledgement </h2>
+<h2 id="acknowledgments">🙏 Acknowledgement </h2>
   <p align="justify" >  We extend our heartfelt gratitude to our team members for their dedication, collaboration, and invaluable contributions to the Medical Recommendation System. Each member played a crucial role, bringing unique ideas and skills that enriched the project. The successful completion of this system was made possible through teamwork, shared commitment, and countless hours of research, development, and refinement. This experience not only strengthened our ability to work together but also provided us with valuable insights into software engineering practices. Thank you for your hard work, passion, and unwavering support in achieving our goal.</p>
 
 
