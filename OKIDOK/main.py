@@ -20,7 +20,10 @@ def helper(dis):
     desc = description[description['Disease'] == dis]['Description']
     desc = " ".join([w for w in desc])
 
-    pre = precautions[precautions['Disease'] == dis][['Precaution_1', 'Precaution_2', 'Precaution_3', 'Precaution_4']]
+    pre = precautions[precautions['Disease'] == dis][['Precaution_1', 
+                                                      'Precaution_2', 
+                                                      'Precaution_3', 
+                                                      'Precaution_4']]
     pre = [col for col in pre.values]
 
     med = medications[medications['Disease'] == dis]['Medication']
@@ -30,7 +33,6 @@ def helper(dis):
     die = [die for die in die.values]
 
     wrkout = workout[workout['disease'] == dis] ['workout']
-
 
     return desc,pre,med,die,wrkout
 
@@ -62,7 +64,13 @@ def predict():
         for i in pre[0]:
             my_pre.append(i)
 
-    return render_template('index.html', predicted_disease=predicted_disease,dis_des=desc,dis_pre=pre,dis_med=med,dis_diet=die,dis_wrkout=wrkout)
+    return render_template('index.html', 
+                           predicted_disease=predicted_disease,
+                           dis_des=desc,
+                           dis_pre=pre,
+                           dis_med=med,
+                           dis_diet=die,
+                           dis_wrkout=wrkout)
 
 @app.route('/about')
 def about():

@@ -33,8 +33,10 @@ function generateSymptomsCheckboxes() {
         const checkboxDiv = document.createElement('div');
         checkboxDiv.className = 'form-check';
         checkboxDiv.innerHTML = `
-            <input class="form-check-input" type="checkbox" value="${symptom}" id="${symptom}">
-            <label class="form-check-label" for="${symptom}">${symptom.replace(/_/g, ' ')}</label>
+            <input class="form-check-input" 
+            type="checkbox" value="${symptom}" id="${symptom}">
+            <label class="form-check-label" 
+            for="${symptom}">${symptom.replace(/_/g, ' ')}</label>
         `;
         symptomsForm.appendChild(checkboxDiv);
     });
