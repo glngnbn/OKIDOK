@@ -125,7 +125,7 @@
       </td>
       <td width="25%">
          <div align="center">
-            <a href="https://1drv.ms/p/c/24b3274360f5ccdf/EXRHTUGkal9JgHjWYq73lR8BtsahKMGnie0ziCgipmdsCg">
+            <a href="https://drive.google.com/file/d/16GK3KwlrF3vUKcz_0YQw5atEiax3igQb/view?usp=sharing">
                <img src="https://i.ibb.co/JK5jTgY/5651475.png" width="55%">
             </a>
             <p>Video Demo</p>
