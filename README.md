@@ -22,13 +22,6 @@
     </li>
     <li><a href="#features">Key Features</a></li>
     <li><a href="#systemarchitecture">System Architecture</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#preview">Preview</a></li>
     <li><a href="#contributing">Contributors</a></li>
     <li><a href="#links">Important Links</a></li>
