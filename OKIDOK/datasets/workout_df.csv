@@ -409,3 +409,98 @@
 407,407,Impetigo,Avoid scratching
 408,408,Impetigo,Take prescribed antibiotics
 409,409,Impetigo,Practice wound care
+410,410,Flu,Stay hydrated and rest
+411,411,Flu,Take over-the-counter fever reducers
+412,412,Flu,Consume warm liquids like soups and teas
+413,413,Flu,Use a humidifier to ease breathing
+414,414,Flu,Consult a healthcare professional if symptoms worsen
+415,415,Strep throat,Take prescribed antibiotics
+416,416,Strep throat,Gargle with warm salt water
+417,417,Strep throat,Avoid sharing utensils or drinks
+418,418,Strep throat,Stay hydrated
+419,419,Strep throat,Rest to help the body recover
+420,420,Pink eye,Avoid touching or rubbing your eyes
+421,421,Pink eye,Use prescribed eye drops
+422,422,Pink eye,Wash your hands frequently
+423,423,Pink eye,Avoid sharing towels or pillows
+424,424,Pink eye,Clean any items that touch the eyes
+425,425,Ear infection,Take prescribed medications
+426,426,Ear infection,Apply a warm compress to ease pain
+427,427,Ear infection,Avoid water entering the ears during infections
+428,428,Ear infection,Stay hydrated and rest
+429,429,Ear infection,Consult a healthcare professional if persistent
+430,430,Cold sores,Use antiviral creams or medications
+431,431,Cold sores,Avoid sharing personal items like lip balms
+432,432,Cold sores,Apply cold compresses to reduce discomfort
+433,433,Cold sores,Stay hydrated and maintain a healthy diet
+434,434,Cold sores,Consult a healthcare professional for severe cases
+435,435,Food poisoning,Rest and drink plenty of fluids
+436,436,Food poisoning,Consume small, bland meals like crackers
+437,437,Food poisoning,Avoid dairy, caffeine, and alcohol
+438,438,Food poisoning,Replenish electrolytes with rehydration solutions
+439,439,Food poisoning,Seek medical advice if symptoms persist
+440,440,Athlete's foot,Use antifungal creams or powders
+441,441,Athlete's foot,Wash and dry feet thoroughly
+442,442,Athlete's foot,Avoid walking barefoot in public areas
+443,443,Athlete's foot,Choose breathable footwear and socks
+444,444,Athlete's foot,Consult a doctor for recurring infections
+445,445,Heat rash,Wear loose, lightweight clothing
+446,446,Heat rash,Stay in a cool, shaded area
+447,447,Heat rash,Apply soothing lotions or calamine
+448,448,Heat rash,Avoid excessive sweating
+449,449,Heat rash,Drink plenty of water to stay hydrated
+450,450,Tooth abscess,Take prescribed antibiotics
+451,451,Tooth abscess,Apply a cold compress to reduce swelling
+452,452,Tooth abscess,Avoid very hot or cold foods
+453,453,Tooth abscess,Maintain good oral hygiene
+454,454,Tooth abscess,Visit a dentist for proper treatment
+455,455,Tonsillitis,Gargle with warm salt water
+456,456,Tonsillitis,Take prescribed medications
+457,457,Tonsillitis,Stay hydrated and avoid acidic foods
+458,458,Tonsillitis,Consume warm liquids like teas or broths
+459,459,Tonsillitis,Rest and avoid straining your voice
+460,460,Boils,Clean the area gently with soap and water
+461,461,Boils,Apply warm compresses to encourage drainage
+462,462,Boils,Avoid squeezing or popping the boil
+463,463,Boils,Take prescribed antibiotics if needed
+464,464,Boils,Seek medical help for severe or recurring boils
+465,465,Cold-induced urticaria,Protect skin from cold temperatures
+466,466,Cold-induced urticaria,Stay hydrated and use moisturizers
+467,467,Cold-induced urticaria,Take prescribed antihistamines
+468,468,Cold-induced urticaria,Avoid sudden changes in temperature
+469,469,Cold-induced urticaria,Consult a doctor for severe reactions
+470,470,Warts,Use over-the-counter treatments
+471,471,Warts,Avoid touching or picking at warts
+472,472,Warts,Keep the area clean and dry
+473,473,Warts,Consult a dermatologist for stubborn warts
+474,474,Warts,Follow medical advice for removal options
+475,475,Hives,Identify and avoid triggers
+476,476,Hives,Take antihistamines as directed
+477,477,Hives,Apply cool compresses to reduce itching
+478,478,Hives,Stay hydrated and avoid heat exposure
+479,479,Hives,Consult a doctor if hives persist or worsen
+480,480,Sunburn,Apply aloe vera or soothing creams
+481,481,Sunburn,Drink plenty of water to rehydrate
+482,482,Sunburn,Avoid further sun exposure until healed
+483,483,Sunburn,Use over-the-counter pain relievers if needed
+484,484,Sunburn,Seek medical attention for severe burns
+485,485,Dehydration,Drink water frequently in small sips
+486,486,Dehydration,Consume electrolyte-rich drinks
+487,487,Dehydration,Avoid caffeinated or sugary beverages
+488,488,Dehydration,Include water-rich foods in your diet
+489,489,Dehydration,Seek medical advice for severe dehydration
+490,490,Motion sickness,Focus on the horizon while traveling
+491,491,Motion sickness,Take over-the-counter remedies as needed
+492,492,Motion sickness,Avoid heavy meals before traveling
+493,493,Motion sickness,Stay hydrated and rest
+494,494,Motion sickness,Consult a doctor for chronic motion sickness
+495,495,Nosebleed,Pinch the nose and lean forward
+496,496,Nosebleed,Apply a cold compress to the bridge of the nose
+497,497,Nosebleed,Avoid blowing your nose too hard
+498,498,Nosebleed,Use a humidifier to prevent dryness
+499,499,Nosebleed,Consult a doctor for frequent or severe nosebleeds
+500,500,Constipation,Increase fiber intake from fruits and vegetables
+501,501,Constipation,Drink plenty of water
+502,502,Constipation,Exercise regularly to improve bowel movements
+503,503,Constipation,Limit processed foods and sugary snacks
+504,504,Constipation,Consult a doctor for persistent issues
