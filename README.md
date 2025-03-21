@@ -21,7 +21,7 @@
       </ul>
     </li>
     <li><a href="#features">Key Features</a></li>
-    <li><a href="#systemarchitecture">System Architecture</a></li>
+    <li><a href="#framework">Programming Language and Frameworks Used</a></li>
     <li><a href="#preview">Preview</a></li>
     <li><a href="#contributing">Contributors</a></li>
     <li><a href="#links">Important Links</a></li>
@@ -63,6 +63,31 @@
   <li><strong>User-Friendly Interface:</strong> Intuitive design for easy navigation.</li>
 </ul>
 
+<!-- Programming Language and Frameworks Used -->
+<h2 id="framework">🤖 Programming Language and Frameworks Used </h2>
+  ⦿ <b>Programming Language Used </b> - Python <br>
+  ⦿ <b>Framework </b> -  Flask <br>
+  ⦿ <b>Frontend </b> -  HTML, CSS, and JavaScript <br>
+  ⦿ <b>Machine Learning </b> -  Support Vector Machine (SVM) <br>
+  ⦿ <b>Libraries </b> <br>
+  <ul>
+  <li><strong>Pandas:</strong> For handling and processing the dataset.</li>
+  <li><strong>NumPy:</strong> For numerical operations and array handling, optimizing data manipulation.</li>
+  <li><strong>Pickle:</strong>  For loading the machine learning model. </li>
+  </ul>
+<!-- PREVIEW -->
+<h2 id="preview">🫣 Preview </h2>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://i.postimg.cc/SRdndf2Q/Picture1.jpg" width="180"></td>
+      <td><img src="https://i.postimg.cc/GtfCb46J/Picture2.jpg" width="180"></td>
+      <td><img src="https://i.postimg.cc/wjLpdT2L/Picture4.jpg" width="180"></td>
+      <td><img src="https://i.postimg.cc/rFvkbt1q/Picture3.jpg" width="180"></td>
+      <td><img src="https://i.postimg.cc/j5gVhWq0/Picture5.jpg" width="180"></td>
+    </tr>
+  </table>
+</div>
 <!-- CONTRIBUTORS --> 
 <h2 id="contributing">👩‍💻 Contributors</h2> 
 <table width="100%" style="border-collapse: collapse;"> 
