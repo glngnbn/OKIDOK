@@ -9,7 +9,7 @@
 
 
 [![Contributors][contributors-shield]][contributors-url]
-
+ [![Python][Python-logo]][Python-url]   
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><strong>Table of Contents</strong></summary>
@@ -64,17 +64,17 @@
 </ul>
 
 <!-- Programming Language and Frameworks Used -->
-<h2 id="framework">🤖 Programming Language and Frameworks Used </h2>
-  ⦿ <b>Programming Language Used </b> - Python <br>
-  ⦿ <b>Framework </b> -  Flask <br>
-  ⦿ <b>Frontend </b> -  HTML, CSS, and JavaScript <br>
-  ⦿ <b>Machine Learning </b> -  Support Vector Machine (SVM) <br>
-  ⦿ <b>Libraries </b> <br>
-  <ul>
-  <li><strong>Pandas:</strong> For handling and processing the dataset.</li>
-  <li><strong>NumPy:</strong> For numerical operations and array handling, optimizing data manipulation.</li>
-  <li><strong>Pickle:</strong>  For loading the machine learning model. </li>
-  </ul>
+## 🤖 Programming Language and Frameworks Used
+
+- **Programming Language Used**: [![Python][Python-logo]][Python-url]  
+- **Framework**: [![Flask][Flask-logo]][Flask-url]   
+- **Frontend**: [![HTML][HTML-logo]][HTML-url]  [![CSS][CSS-logo]][CSS-url]  [![JavaScript][JS-logo]][JS-url]  
+- **Machine Learning**: [![SVM][SVM-logo]][SVM-url]  
+- **Libraries**:  
+  - **Pandas**: [![Pandas][Pandas-logo]][Pandas-url]   For handling and processing the dataset.  
+  - **NumPy**: [![NumPy][NumPy-logo]][NumPy-url]  For numerical operations and array handling, optimizing data manipulation.  
+  - **Pickle**: [![Pickle][Pickle-logo]][Pickle-url]  For loading the machine learning model.  
+  
 <!-- PREVIEW -->
 <h2 id="preview">🫣 Preview </h2>
 <div align="center">
@@ -122,9 +122,6 @@
     </td> 
   </tr> 
 </table>
-
-
-
 
 <!-- IMPORTANT LINKS -->
 <h2 id="links">🔗 Important Links </h2>
@@ -174,3 +171,21 @@
 
 [contributors-shield]: https://img.shields.io/github/contributors/glngnbn/OKIDOK?style=for-the-badge
 [contributors-url]: https://github.com/glngnbn/OKIDOK/graphs/contributors
+[Python-logo]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white  
+[Python-url]: https://www.python.org/  
+[Flask-logo]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white  
+[Flask-url]: https://flask.palletsprojects.com/
+[HTML-logo]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white  
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML  
+[SVM-logo]: https://img.shields.io/badge/SVM-Support%20Vector%20Machine-Blue?style=for-the-badge  
+[SVM-url]: https://en.wikipedia.org/wiki/Support_vector_machine 
+[Pandas-logo]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white  
+[Pandas-url]: https://pandas.pydata.org/  
+[NumPy-logo]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white  
+[NumPy-url]: https://numpy.org/  
+[Pickle-logo]: https://img.shields.io/badge/Pickle-Informational?style=for-the-badge&color=green  
+[Pickle-url]: https://docs.python.org/3/library/pickle.html  
+[CSS-logo]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white  
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS  
+[JS-logo]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black  
+[JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript  
