@@ -9,7 +9,11 @@
 
 
 [![Contributors][contributors-shield]][contributors-url]
- [![Python][Python-logo]][Python-url]   
+[![Python][Python-logo]][Python-url]   
+[![Flask][Flask-logo]][Flask-url]   
+[![HTML][HTML-logo]][HTML-url]  [![CSS][CSS-logo]][CSS-url]  [![JavaScript][JS-logo]][JS-url]  
+[![Pandas][Pandas-logo]][Pandas-url] 
+[![NumPy][NumPy-logo]][NumPy-url] 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><strong>Table of Contents</strong></summary>
