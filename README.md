@@ -69,28 +69,28 @@
   <tr> 
     <td align="center" width="25%" style="padding: 10px;"> 
       <a href="https://github.com/roseann11" style="text-decoration: none; color: inherit;">
-        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="250px;" alt="Rose Ann's GitHub Profile"/>
+        <img src="https://github.com/user-attachments/assets/678d1225-62e3-4258-a022-9de27a4e1352" width="250px;" alt="Rose Ann's GitHub Profile"/>
         <br>
         <b>Aguilar, Rose Ann C.</b>
       </a>
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
       <a href="https://github.com/glngnbn" style="text-decoration: none; color: inherit;">
-        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="250px;" alt="Glenn's GitHub Profile"/>
+        <img src="https://github.com/user-attachments/assets/92ff0bce-e186-4a9e-bf26-767d30fb68d5" width="250px;" alt="Glenn's GitHub Profile"/>
         <br>
         <b>Guinoban, Glenn M.</b>
       </a>
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
       <a href="https://github.com/Eljay-Marasigan" style="text-decoration: none; color: inherit;">
-        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="250px;" alt="Eljay's GitHub Profile"/>
+        <img src="https://github.com/user-attachments/assets/5ae85057-a5eb-429c-9bf3-c793db8a9478" width="250px;" alt="Eljay's GitHub Profile"/>
         <br>
         <b>Marasigan, Eljay P.</b>
       </a>
     </td> 
     <td align="center" width="25%" style="padding: 10px;"> 
       <a href="https://github.com/FaithAllyson" style="text-decoration: none; color: inherit;">
-        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="240px;" alt="Faith's GitHub Profile"/>
+        <img src="https://github.com/user-attachments/assets/926b98bd-4d23-4767-8fba-d09ff1301af0" width="240px;" alt="Faith's GitHub Profile"/>
         <br>
         <b>Mendoza, Faith R.</b>
       </a>
