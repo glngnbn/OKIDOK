@@ -4,37 +4,46 @@ body {
     font-family: 'Arial', sans-serif;
     font-weight: bold;
   }
+  
   h1 {
     color: #990303;
   }
+  
   .myimg {
     width: 50px;
     height: 50px;
     border: 2px solid #990303;
     border-radius: 25px;
   }
+  
   .modal-content {
     background-color: #292323;
     color: #ffffff;
     border-radius: 10px;
   }
+  
   .form-check-label {
     color: #ffffff;
   }
+ 
   .navbar {
     background-color: #000000;
     border-bottom: 2px solid #990303;
   }
+ 
   .navbar-brand {
     color: #990303 !important;
     font-weight: bold;
   }
+ 
   .nav-link {
     color: #9c9999 !important;
   }
+  
   .nav-link:hover {
     color: #990303 !important;
   }
+  
   .btn-primary {
     background-color: #990303;
     border: none;
@@ -42,9 +51,11 @@ body {
     padding: 10px 20px;
     color: #ffffff;
   }
+  
   .btn-primary:hover {
     background-color: #71706e;
   }
+ 
   .btn-danger {
     background-color: #990303;
     border: none;
@@ -52,9 +63,11 @@ body {
     padding: 10px 20px;
     color: #ffffff;
   }
+ 
   .btn-danger:hover {
     background-color: #71706e;
   }
+  
   .container {
     background-color: #000000;
     border-radius: 15px;
@@ -62,6 +75,7 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border: 1px solid #990303;
   }
+  
   .toggle-button {
     background-color: #990303;
     color: #ffffff;
@@ -71,14 +85,17 @@ body {
     margin: 5px;
     transition: background-color 0.3s ease;
   }
+  
   .toggle-button:hover {
     background-color: #71706e;
   }
+  
   .form-control {
     background-color: #292323;
     color: #ffffff;
     border: 1px solid #990303;
   }
+ 
   .form-control:focus {
     background-color: #292323;
     color: #ffffff;
