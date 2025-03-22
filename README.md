@@ -155,7 +155,7 @@
    <tr>
       <td width="25%">
          <div align="center">
-            <a href="https://drive.google.com/drive/folders/1RBJ04-xN3n3AF4GJtCyNB4IDWskxveeS?usp=sharing">
+            <a href="https://drive.google.com/file/d/1SSa3zKpCP-4ob5zGGMR75Tq5ZX78ngox/view?usp=drive_link">
                <img src="https://i.ibb.co/HLyN6mr/9746449.png" width="55%">
             </a>
             <p>Final Report</p>
@@ -163,7 +163,7 @@
       </td>
       <td width="25%">
          <div align="center">
-            <a href="https://drive.google.com/file/d/1xuUoz3HitvfLuiDWIuS3RYLxZf5zoCVH/view?usp=drive_link">
+            <a href="https://drive.google.com/file/d/1xuUoz3HitvfLuiDWIuS3RYLxZf5zoCVH/view?usp=sharing">
                <img src="https://i.postimg.cc/GtsyTSVZ/report.png" width="55%">
             </a>
             <p>Presentation Slides</p>
