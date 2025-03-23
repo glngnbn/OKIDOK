@@ -65,7 +65,7 @@
           <li><strong>Symptom Checker:</strong> Enter symptoms to get possible conditions.</li>
           <li><strong>Medical Recommendations:</strong> Provides treatment, self-care tips, and doctor visit guidance.</li>
           <li><strong>Categorized Health Info:</strong> Organized details on diseases, precautions, medications, workouts, and diets.</li>
-          <li><strong>Flexible Symptom Input Options:</strong> Enter symptoms manually or select from a list.</li>
+          <li><strong>Checkbox Option:</strong> Users select symptoms from a predefined list.</li>
           <li><strong>User-Friendly Interface:</strong> Intuitive design for easy navigation.</li>
         </ul>
     </td>
